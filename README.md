@@ -1,6 +1,6 @@
 # 3D LiDAR Scanner 📡
 
-Welcome to the 3D LiDAR Scanner project! This system captures accurate 3D scans of indoor environments using a rotating Time-of-Flight sensor controlled by a microcontroller. The project combines embedded systems and Python-based 3D visualization to produce interactive point clouds.
+This system captures accurate 3D scans of indoor environments using a rotating Time-of-Flight sensor controlled by a microcontroller. The project combines embedded systems and Python-based 3D visualization to produce interactive point clouds.
 
 ---
 
