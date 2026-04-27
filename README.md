@@ -92,5 +92,3 @@ This system captures accurate 3D scans of indoor environments using a rotating T
 - Export point clouds directly to STL or PLY for CAD applications.
 
 ---
-
-Enjoy scanning your world in 3D! 📡
